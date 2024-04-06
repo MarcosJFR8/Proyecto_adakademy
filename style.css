@@ -1,0 +1,17 @@
+
+/* DISE;O TIPO CASCADA */
+
+/* selector por etiqueta */
+section h2 {
+    color: rgb(182, 15, 15);
+}
+
+/* selector tipo class */
+.azul{
+    color: green;
+}
+
+/* selector tipo id */
+#verde{
+    color: aquamarine;
+}
